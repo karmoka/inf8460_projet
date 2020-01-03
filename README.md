@@ -1,7 +1,7 @@
 # inf8460 Projet : Inférence en langue naturelle
 
 Auteurs :  
-- Raphael Croteau
+- Raphael Croteau  
 ~~- Clément Maurel~~ (N'a finalement rien fait)
 - François Vidal (Correction de la langue et début code SRL)
 
