@@ -2,8 +2,8 @@
 
 Auteurs :  
 - Raphael Croteau
-- François Vidal
-- Clément Maurel
+~~- Clément Maurel~~ (N'a finalement rien fait)
+- François Vidal (Correction de la langue et début code SRL)
 
 Énoncé :  
 - Le but de ce projet est d’indiquer, pour toute paire de phrases dans le corpus, si la seconde phrase contredit, est une conséquence logique ou est neutre par rapport à la première phrase
