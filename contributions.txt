@@ -1,0 +1,27 @@
+>> Raphael Croteau
+Rédaction du rapport
+Code
+    Modèle Simples
+        Prétraitement
+        Embedding Bert + MLP
+        Embedding Bert + LSTM
+    Modèle Final
+        Prétraitement (PoS, BERT, SRL)
+        Modèle
+        Entraînement et fine tuning
+        Validation et graphiques
+Présentation des poster:
+    Création du poster
+    Présentation
+
+>> François Vidal
+Rédaction du rapport
+Code
+    Modèle Final
+        Prétraitement (SRL)
+Présentation des poster:
+    Création du poster
+    Présentation
+
+>> Clément Maurel
+Rédaction du rapport (intro)
